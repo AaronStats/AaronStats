@@ -1,6 +1,6 @@
-### Hi, I'm Aaron. 👋
+# Hi, I'm Aaron. 👋
 
-I'm a BAIS and Finance Major in the Tippie College of Business at the University of Iowa.
+**I'm a BAIS and Finance Major in the Tippie College of Business at the University of Iowa.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
